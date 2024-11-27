@@ -13,7 +13,7 @@
 
   Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://themezoz.github.io/cryptocurrency-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/cryptex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/themezoz).
 
 ### License
 
